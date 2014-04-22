@@ -1,0 +1,16 @@
+/*
+We highly recommend you use SASS and write your custom styles in sass/_custom.scss.
+However, this blank file is available if you prefer
+*/
+
+.tweet {
+	height: 150px !important;
+}
+
+.tweet p {
+	width: 100%;
+}
+
+.tweet p i {
+	float: left;
+}
